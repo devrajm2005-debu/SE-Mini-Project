@@ -10,7 +10,7 @@
 > **Track:** Healthcare & Telemedicine  
 > **Problem Statement #15:** Pharmacy Expiry & Re-order Dispatch Engine  
 > **Author:** Devraj M ([@devrajm2005](https://github.com/devrajm2005))  
-> **Target Repository:** [https://github.com/devrajm2005/debu](https://github.com/devrajm2005/debu)
+> **Target Repository:** [https://github.com/devrajm2005-debu/SE-Mini-Project](https://github.com/devrajm2005-debu/SE-Mini-Project)
 
 ---
 
